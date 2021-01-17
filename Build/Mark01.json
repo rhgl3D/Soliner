@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "MontajeUnity3D",
+"productVersion": "0.1",
+"dataUrl": "Mark01.data.unityweb",
+"wasmCodeUrl": "Mark01.wasm.code.unityweb",
+"wasmFrameworkUrl": "Mark01.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.14f1"
+}
